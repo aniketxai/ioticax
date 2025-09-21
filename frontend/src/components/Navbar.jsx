@@ -104,7 +104,7 @@ const Navbar = () => {
           {/* User avatar */}
           <div className="user-avatar">
             <div className="avatar">
-              <span>JD</span>
+              <span>AN</span>
             </div>
           </div>
         </div>
