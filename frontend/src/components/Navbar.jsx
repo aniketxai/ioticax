@@ -61,9 +61,9 @@ const Navbar = () => {
           <button 
             className="btn btn-outline theme-toggle"
             onClick={toggleTheme}
-            title={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
+            title={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}
           >
-            {theme === 'light' ? <Moon size={16} /> : <Sun size={16} />}
+            {theme === 'dark' ? <Moon size={16} /> : <Sun size={16} />}
           </button>
 
           {/* Notifications */}
