@@ -18,10 +18,10 @@ import './Settings.css';
 const Settings = () => {
   const [activeTab, setActiveTab] = useState('profile');
   const [profile, setProfile] = useState({
-    name: 'John Doe',
-    email: 'john.doe@email.com',
-    phone: '+1 (555) 123-4567',
-    location: 'San Francisco, CA'
+    name: 'Aniket Singh',
+    email: 'aniketxai@gmail.com',
+    phone: '+91 8210993912',
+    location: 'India'
   });
 
   const [devices, setDevices] = useState([
