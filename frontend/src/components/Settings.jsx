@@ -152,7 +152,7 @@ const Settings = () => {
                 <div className="card-content">
                   <div className="profile-avatar">
                     <div className="avatar-large">
-                      <span>JD</span>
+                      <span>AN</span>
                     </div>
                     <button className="btn btn-outline btn-sm">Change Photo</button>
                   </div>

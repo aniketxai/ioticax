@@ -229,7 +229,7 @@
   }
   
   .navbar-title h1 {
-    font-size: var(--font-size-xl);
+   display: none;
   }
   
   .subtitle {
@@ -241,3 +241,4 @@
     right: -80px;
   }
 }
+
